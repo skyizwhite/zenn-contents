@@ -4,6 +4,6 @@
 
 typo の修正等のプルリクは大歓迎です！
 
-ライセンス: CC-BY
+ライセンス: CC BY-NC 4.0
 
 クレジット: paku (skyizwhite)
